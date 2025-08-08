@@ -1,0 +1,11 @@
+{
+  "model_path": "models/vosk-model-en-us-0.42-gigaspeech",
+  "sample_rate": 16000,
+  "silence_threshold": 0.01,
+  "max_silence": 10.0,
+  "blocksize": 1024,
+  "silence_rms_threshold": 800,
+  "max_silence_duration": 3.0,
+  "silence_duration_threshold": 1.0,
+  "min_speech_duration": 0.3
+}
